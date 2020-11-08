@@ -14,7 +14,7 @@ trait Hewan{
 
 trait Fight{
     use hewan;
-    public $attackPower;
+    public $attackPower;    
     public $defencePower;
     
     public function serang($lawan){
