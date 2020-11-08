@@ -1,6 +1,7 @@
 <?php
 //by ages
 //tes
+//tes lagi
 
 trait Hewan{
     public $nama;
